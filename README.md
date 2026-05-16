@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tobu-tomar-chaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tobu Tomar Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-tomar-chaya/) |
+| **Get License** | [License this song: Tobu Tomar Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-tomar-chaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Song Name: "Tobu Tomar Chaya"
+> Song Style: Melodic Romantic / Love / Emotional / Natural Poetry.. Not Complex Words..
+> Music Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation
+> ছায়ার মতো আছো তুমি আমারই অন্তরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
