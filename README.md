@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tobu-tomar-chaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tobu Tomar Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-tomar-chaya/) |
+| **Get License** | [Commercial Licensing for Tobu Tomar Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-tomar-chaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `523fde4b2f2d3811ee530104d01d436f97a01a032812d988191bf8804dd7cddd` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
